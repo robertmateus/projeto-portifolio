@@ -1,2 +1,6 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="240" fill="none" stroke="#FFFFFF" stroke-width="32"/>
+  <path d="M180 176 L120 256 L180 336" fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M332 176 L392 256 L332 336" fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="232" y1="160" x2="280" y2="352" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round"/>
+</svg>
